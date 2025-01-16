@@ -25,13 +25,13 @@ export default function HeroSection() {
           <div className="flex flex-col sm:flex-row gap-4 justify-center md:justify-start">
             <Link
               href="/consultation"
-              className="lg:text-2xl bg-[#7FD4D4] text-white px-8 py-3 rounded-md hover:bg-[#6BC4C4] transition-colors text-center flex-1 w-full sm:w-auto"
+              className="lg:text-xl bg-[#7FD4D4] text-black px-10 py-3 rounded-md hover:bg-[#6BC4C4] transition-colors text-center flex-1 w-full sm:w-auto"
             >
               Book a Consultation
             </Link>
             <Link
               href="/gallery"
-              className="lg:text-2xl bg-[#7FD4D4] text-white px-8 py-3 rounded-md hover:bg-[#6BC4C4] transition-colors text-center flex-1 w-full sm:w-auto"
+              className="lg:text-xl bg-[#7FD4D4] text-black px-10 py-3 rounded-md hover:bg-[#6BC4C4] transition-colors text-center flex-1 w-full sm:w-auto"
             >
               View Our Gallery
             </Link>

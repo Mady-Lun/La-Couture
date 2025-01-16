@@ -10,7 +10,7 @@ export default function Navigation() {
           </Link>
           <div className="hidden md:flex items-center space-x-8">
             <Link href="/">Home</Link>
-            <Link href="/collections">Collections</Link>
+            <Link href="/gallery">Gallery</Link>
             <Link href="/reviews">Reviews</Link>
             <Link href="/about">About Us</Link>
             <Link href="/contact" className="bg-[#00BACB] text-white px-10 py-2 rounded-md">
