@@ -12,19 +12,19 @@ const reviews = [
   {
     id: 2,
     names: "Kay & Jay",
-    image: "/kay-jay.jpg",
+    image: "/trey-alex.jpg",
     quote: "Finding the perfect wedding dress seemed impossible until I came here. The collection was breath-taking, and the staff made me feel so special throughout the process. My dress was tailored to perfection, and I received endless compliments. Truly the best experience!"
   },
   {
     id: 3,
-    names: "Trey & Alex",
-    image: "/kay-jay.jpg",
+    names: "James & Jimmy",
+    image: "/james-janes.jpg",
     quote: "This boutique is a gem! From the moment I walked in, I was treated like family. The consultants listened to my vision and helped me find the gown of my dreams. It made my big day even more magical. I can’t thank them enough!"
   },
   {
     id: 4,
-    names: "Kay & Jay",
-    image: "/kay-jay.jpg",
+    names: "Jammy & Jany",
+    image: "/jimmy-jany.jpg",
     quote: "Choosing this boutique was the best decision for my wedding. Their gowns are a perfect blend of tradition and modern elegance. The customization options were fantastic, and the attention to detail was incredible. I couldn’t have asked for a better experience!"
   }
 ]
@@ -70,7 +70,7 @@ export default function ReviewsPage() {
         </div>
         <div className="mt-16 flex justify-center">
           <a
-            href="/book"
+            href="/contact.tsx"
             className="bg-[#008B98] text-white italic px-16 py-3 text-lg font-light hover:bg-[#33BBC8] hover:text-black transition-colors rounded"
           >
             Book Your Experience Today

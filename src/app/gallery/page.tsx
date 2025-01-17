@@ -5,54 +5,54 @@ import Footer from '../components/footer'
 // Define an array of gallery images
 const galleryImages = [
   {
-    src: "/kay-jay.jpg",
+    src: "/1.jpg",
     alt: "Traditional couple in wedding attire",
   },
   {
-    src: "/kay-jay.jpg",
+    src: "/2.jpg",
     alt: "Golden traditional wedding attire",
   },
   {
-    src: "/kay-jay.jpg",
+    src: "/3.jpg",
     alt: "White and gold wedding outfit",
   },
   {
-    src: "/kay-jay.jpg",
+    src: "/4.jpg",
     alt: "Blue and gold wedding ensemble",
   },
   {
-    src: "/kay-jay.jpg",
+    src: "/5.jpg",
     alt: "Couple in traditional attire outdoors",
   },
   {
-    src: "/kay-jay.jpg",
+    src: "/6.jpg",
     alt: "Green and gold wedding outfit",
   },
 ]
 
 const modernGown = [
   {
-    src: "/kay-jay.jpg",
+    src: "/7.jpg",
     alt: "Traditional couple in wedding attire",
   },
   {
-    src: "/kay-jay.jpg",
+    src: "/8.jpg",
     alt: "Golden traditional wedding attire",
   },
   {
-    src: "/kay-jay.jpg",
+    src: "/9.jpg",
     alt: "White and gold wedding outfit",
   },
   {
-    src: "/kay-jay.jpg",
+    src: "/10.jpg",
     alt: "Blue and gold wedding ensemble",
   },
   {
-    src: "/kay-jay.jpg",
+    src: "/11.jpg",
     alt: "Couple in traditional attire outdoors",
   },
   {
-    src: "/kay-jay.jpg",
+    src: "/12.jpg",
     alt: "Green and gold wedding outfit",
   },
 ]
