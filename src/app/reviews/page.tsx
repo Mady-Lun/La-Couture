@@ -70,7 +70,7 @@ export default function ReviewsPage() {
         </div>
         <div className="mt-16 flex justify-center">
           <a
-            href="/contact.tsx"
+            href="/contact"
             className="bg-[#008B98] text-white italic px-16 py-3 text-lg font-light hover:bg-[#33BBC8] hover:text-black transition-colors rounded"
           >
             Book Your Experience Today
