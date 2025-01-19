@@ -24,7 +24,7 @@ export default function HeroSection() {
           </h1>
           <div className="flex flex-col sm:flex-row gap-4 justify-center md:justify-start">
             <Link
-              href="/consultation"
+              href="/contact"
               className="lg:text-xl bg-[#7FD4D4] text-black px-10 py-3 rounded-md hover:bg-[#6BC4C4] transition-colors text-center flex-1 w-full sm:w-auto"
             >
               Book a Consultation
